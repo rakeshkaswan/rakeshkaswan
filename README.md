@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Rakesh
+
+I am an Data enthusiastic engineer, focused on building & mainting data processing.
+
+Higly Skilled at - 
+
+ - Python, Pandas, PySpark
+ - SQL
+ - CSV, Parquet
+ - Athena, Redshift, Bigquery
+ - Dataproc, EMR
 
 <!--
 **rakeshkaswan/rakeshkaswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
